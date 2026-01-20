@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Akash Debnath</h1>
+<h1 align="center">👋 Akash Debnath</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+AI+Engineer;Generative+AI+%7C+LangChain+%7C+RAG;Embedded+Systems+%26+ECU+Explorer;Research-Oriented+Problem+Solver;300%2B+LeetCode+Problems+Solved" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&width=950&lines=Machine+Learning+%7C+Generative+AI;Embedded+Systems+%26+ECU+Explorer;LangChain+%7C+RAG+%7C+LLMs;Research-Oriented+Engineer;LeetCode+Daily+Problem+Solver" />
 </p>
 
 <p align="center">
@@ -11,40 +11,39 @@
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
 🎓 **B.Tech – Computer Science (Data Science)**  
 🏫 **Heritage Institute of Technology, Kolkata**  
 📊 **CGPA: 9.37 / 10**
 
-I am deeply passionate about **Machine Learning, Generative AI, and Embedded Intelligence**.  
-My work revolves around building **intelligent systems** that interact with **real-world data, hardware, and humans**.
+I focus on building **intelligent, reliable, and research-driven systems** at the intersection of:
 
-✨ I love:
-- 🧠 Teaching machines to **reason & retrieve**
-- ⚙️ Designing **embedded-aware intelligent systems**
-- 📊 Turning **data into decisions**
-- 🔬 Research-driven problem solving
+- 🧠 **Machine Learning & AI**
+- 🤖 **Generative AI & LLM systems**
+- ⚙️ **Embedded & real-world intelligence**
+
+I enjoy solving **hard problems**, understanding **systems deeply**, and converting theory into **working technology**.
 
 ---
 
-## 🤖 Machine Learning & AI Focus
+## 🤖 Machine Learning & AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-020617?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-1E293B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-030712?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-020617?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-020617?style=for-the-badge"/>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-- CNNs, Transfer Learning (ResNet, Vision Models)
-- NLP Pipelines & Semantic Search
-- Model Optimization & Evaluation
-- Research-oriented ML development
+- CNNs, Transfer Learning (ResNet)
+- NLP pipelines & semantic search
+- Model optimization & evaluation
+- Research-grade experimentation
 
 ---
 
@@ -57,37 +56,28 @@ My work revolves around building **intelligent systems** that interact with **re
 </p>
 
 - Retrieval-Augmented Generation (RAG)
-- Vector Databases & Embeddings
-- Prompt Engineering & Hallucination Reduction
-- Production-grade AI pipelines
+- Vector embeddings & semantic indexing
+- Prompt engineering & hallucination control
+- Production-ready AI pipelines
 
 ---
 
 ## ⚙️ Embedded Systems & Core Engineering
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-00427E?style=for-the-badge&logo=arduino"/>
-  <img src="https://img.shields.io/badge/ECU%20%26%20Automotive-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT%20Systems-0F172A?style=for-the-badge&logo=raspberrypi"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-003366?style=for-the-badge&logo=arduino"/>
+  <img src="https://img.shields.io/badge/ECU%20%26%20Automotive-020617?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT%20Systems-020617?style=for-the-badge&logo=raspberrypi"/>
 </p>
 
 - ECU architecture & functionality
-- Sensor-driven systems
+- Sensor-driven embedded intelligence
 - Hardware–software co-design mindset
-- Offline-first & resilient systems
+- Offline-ready & resilient systems
 
 ---
 
-## 🧩 Programming & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-  <img src="https://skillicons.dev/icons?i=git,linux,jupyter,vscode" />
-</p>
-
----
-
-## 🧠 Problem Solving (DSA)
+## 🧠 Competitive Programming & DSA
 
 <p align="center">
   <a href="https://leetcode.com/u/Akash280704/">
@@ -95,39 +85,44 @@ My work revolves around building **intelligent systems** that interact with **re
   </a>
 </p>
 
-- Strong foundations in **algorithms & data structures**
-- Efficient, optimized thinking
-- ML-ready mathematical & logical intuition
+### 📅 Daily Practice & Consistency
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Akash280704?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</p>
+
+- Daily problem solving habit
+- Strong grip on **arrays, DP, trees, graphs, bit manipulation**
+- Algorithmic thinking supporting ML & systems work
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Selected Projects
 
 🧠 **RAG-Based Medical Chatbot**  
-- 10,000+ medical documents  
-- 92% semantic retrieval accuracy  
-- Sub-2s response time  
+• 10,000+ medical documents  
+• 92% semantic accuracy  
+• <2s response latency  
 
-👁️ **Retinal Disease Detection System**  
-- CNN-based diagnosis  
-- 94% accuracy across disease classes  
+👁️ **Retinal Disease Detection (CNN)**  
+• 94% accuracy  
+• Transfer learning with ResNet  
 
 🎥 **YouTube RAG Chatbot**  
-- Conversational AI over video content  
-- Time-aware transcript intelligence  
+• Conversational AI over videos  
+• Temporal-aware transcript retrieval  
 
 ---
 
 ## 🏆 Research & Achievements
 
-📄 **Published Research Paper – ICCTE 2025**  
+📄 **ICCTE 2025 – Research Publication**  
 *Offline-Ready Disaster Relief System using Hybrid Path Planning & LoRa*
 
 🎓 **Visteon Scholar Examination – Qualified (2025)**
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash007AD&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -146,7 +141,7 @@ My work revolves around building **intelligent systems** that interact with **re
     <img src="https://img.shields.io/badge/Email-debnath2004akash%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Akash280704/">
-    <img src="https://img.shields.io/badge/LeetCode-Akash280704-FFA116?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Daily%20Solver-FFA116?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://www.linkedin.com/in/akash-debnath">
     <img src="https://img.shields.io/badge/LinkedIn-Akash%20Debnath-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -155,6 +150,7 @@ My work revolves around building **intelligent systems** that interact with **re
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:38BDF8&height=90&section=footer&text=Always%20Learning%20%7C%20Always%20Building&fontSize=18&fontColor=E5E7EB"/>
 </p>
